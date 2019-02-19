@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>5 Módulos para mejorar tu productividad con tu tienda Prestashop </title>
+    <link>https://www.prestashop.com/es/blog/modulos-mejorar-productividad</link>
+    <description>Tener un negocio online, requiere entre otras cosas, mantener y mejorar paulatinamente la productividad profesional.</description>
+     <pubDate>Fri, 15 Feb 2019 17:33:19 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-mejorar-productividad</guid>
+  </item>
+  <item>
+    <title>El PHP 5.6 ha llegado a su fin: ¡no descuides la seguridad de tu tienda PrestaShop!</title>
+    <link>https://www.prestashop.com/es/blog/php-5-6-seguridad-tienda-prestashop</link>
+    <description>Desde finales de 2018, la comunidad de PrestaShop que usan versiones PHP anteriores a 5.6, deben saber que ésta ya no es compatible con esta versión.</description>
+     <pubDate>Tue, 12 Feb 2019 16:55:52 +0100</pubDate>
+ <dc:creator>Méguy Solvet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/php-5-6-seguridad-tienda-prestashop</guid>
+  </item>
+  <item>
+    <title>7 Mejores módulos para controlar la accesibilidad Web a tu tienda PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/modulos-accesibilidad-web</link>
+    <description>Controlar la accesibilidad Web de otros usuarios en tu tienda online es algo imprescindible y que deberías tener muy en cuenta desde que comienzas en este sector.</description>
+     <pubDate>Mon, 11 Feb 2019 09:34:03 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-accesibilidad-web</guid>
+  </item>
+  <item>
+    <title>&amp;quot;Materiales de Fábrica&amp;quot;, el caso de éxito de este eCommerce de productos para el hogar</title>
+    <link>https://www.prestashop.com/es/blog/materiales-de-fabrica</link>
+    <description>Desde hace unos años, la árdua tarea de reformar tu propia casa se ha convertido en una tarea mucho más sencilla gracias a empresas como &quot;Materiales de Fábrica&quot;.</description>
+     <pubDate>Thu, 07 Feb 2019 01:12:30 +0100</pubDate>
+ <dc:creator>Miquel Joan Vidal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/materiales-de-fabrica</guid>
+  </item>
+  <item>
+    <title>¿Qué es el CRO y cómo puede mejorar tu tasa de conversión?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-el-cro</link>
+    <description>¿A día de hoy sigues preguntándote por qué no aumentan tus ventas? Muy probablemente tengas que actuar y optimizar tu CRO.</description>
+     <pubDate>Tue, 05 Feb 2019 16:22:27 +0100</pubDate>
+ <dc:creator>Jose Luis López</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-el-cro</guid>
+  </item>
+  <item>
+    <title>¿Cómo hacer un resumen ejecutivo para dar a conocer tu proyecto de eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/resumen-ejecutivo-ecommerce</link>
+    <description>¿Aún sigues sin dar a conocer tu proyecto de eCommerce? ¡Quizás un buen resumen ejecutivo podría abrirte muchas puertas!</description>
+     <pubDate>Tue, 05 Feb 2019 10:51:22 +0100</pubDate>
+ <dc:creator>María Martín Parrilla</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/resumen-ejecutivo-ecommerce</guid>
+  </item>
+  <item>
+    <title>¿Qué es hacer Picking y cómo mejorar esta tarea en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-picking</link>
+    <description>¿Pones verdadero énfasis en potenciar el &#039;picking&#039; dentro de tu negocio digital?</description>
+     <pubDate>Thu, 31 Jan 2019 14:15:41 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-picking</guid>
+  </item>
+  <item>
+    <title>5 Mejores plantillas para crear tu propio gimnasio online con PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/plantillas-gimnasio-online</link>
+    <description>¿Estás pensando en emprender en el mundo del entrenamiento deportivo con tu propio gimnasio online?</description>
+     <pubDate>Tue, 29 Jan 2019 11:24:29 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/plantillas-gimnasio-online</guid>
+  </item>
+  <item>
+    <title>¿Cómo saber qué hosting contratar para la Web de mi tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/que-hosting-contratar</link>
+    <description>¿Estás a punto de comenzar con tu propio eCommerce pero no sabes qué hosting contratar para tu Web?</description>
+     <pubDate>Mon, 28 Jan 2019 12:57:40 +0100</pubDate>
+ <dc:creator>Sébastien Millanvoye</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-hosting-contratar</guid>
+  </item>
+  <item>
+    <title>¿Cómo el gigante &amp;quot;Stor&amp;quot; logró lanzar su tienda en Internet y vender Online?</title>
+    <link>https://www.prestashop.com/es/blog/stor-line</link>
+    <description>Cada vez existen más tiendas físicas que dan el paso al Online y deciden vender en Internet sus productos. Es el caso de éxito de hoy: Stor S.L.</description>
+     <pubDate>Thu, 24 Jan 2019 16:03:29 +0100</pubDate>
+ <dc:creator>Fernando Criado</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/stor-line</guid>
+  </item>
+  </channel>
+</rss>

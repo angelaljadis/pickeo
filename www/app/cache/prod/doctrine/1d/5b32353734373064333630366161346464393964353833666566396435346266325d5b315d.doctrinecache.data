@@ -1,0 +1,13 @@
+1548853263
+s:2691:"HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 30 Jan 2019 11:01:03 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 2380
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"27138","name":"ps_googleanalytics","displayName":"Google Analytics","categoryName":"Informes y Estad\u00edsticas","description":"Gain clear insights into important metrics about your customers, using Google Analytics","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/es\/informes-estadisticas\/27138-google-analytics.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-ES&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/27138.jpg","fullDescription":"Gain clear insights into important metrics about your customers, using Google Analytics.","additionalDescription":"Use this native module to:\r\n<ul>\r\n\t<li><strong>Retrieve data:<\/strong> these current values are essential to analyze your business and make it evolve in the right direction.<\/li>\r\n\t<li><strong>Analyze your visitors&#39; behavior:<\/strong> be able to retrace all the stops your customers take on the road to action on your store.<\/li>\r\n\t<li><strong>Gain new customers:<\/strong> read this data as a measurable way to improve your campaigns and reach new audiences.<\/li>\r\n<\/ul>\r\n","features":"Your customers go everywhere, shouldn&#39;t your analytics? This Google Analytics module shows you the full customer picture across ads and videos, websites and social tools, tablets and smartphones. In short, it makes it easier to serve your current customers and win new ones.<br \/>\r\n<br \/>\r\nCreate your account to get in one click the main KPIs about shoppers behavior and about your conversion rates. It includes:<br \/>\r\n&nbsp;\r\n<ul>\r\n\t<li>Product detail view<\/li>\r\n\t<li>&ldquo;Add to cart&rdquo; actions<\/li>\r\n\t<li>Internal campaign clicks<\/li>\r\n\t<li>Internal merchandising success<\/li>\r\n\t<li>Checkout process<\/li>\r\n\t<li>Purchase history<\/li>\r\n<\/ul>\r\n","customer_benefits":"","demo_video":"","version":"3.1.3","last_update":"2019-01-30 05:01:00","compatibility":{"from":"1.7.0.0","to":"1.7.5.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias1.prestastore.com\/1294096-pprod\/google-analytics.jpg","big":"https:\/\/medias1.prestastore.com\/1294096-pbig\/google-analytics.jpg"}}]}";

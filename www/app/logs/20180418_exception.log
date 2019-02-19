@@ -1,0 +1,3 @@
+*ERROR* 	v1.7.2.5	2018/04/18 - 14:02:00: La propiedad Address->phone está vacía. at line 944 in file classes/ObjectModel.php
+*ERROR* 	v1.7.2.5	2018/04/18 - 14:03:01: La propiedad Address->dni está vacía. at line 944 in file classes/ObjectModel.php
+*ERROR* 	v1.7.2.5	2018/04/18 - 14:03:47: La propiedad Address->dni está vacía. at line 944 in file classes/ObjectModel.php
